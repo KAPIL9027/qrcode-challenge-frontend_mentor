@@ -6,16 +6,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#Used css flexbox to complete this project.)
   - [Screenshot](#https://user-images.githubusercontent.com/76560065/226164091-e673baac-4ba5-4a01-9f9a-507ecab7f7b8.png)
-- [My process](To create the card section, a div was employed, which contained two separate divs for the QR image and text components. Flexbox was utilized to ensure proper alignment of these elements in accordance with the specified requirements. )
-  - [Built with](Html, Css)
-  - [What I learned](How to use flexbox to create beautiful card layouts like this.)
+- [My process](#To create the card section, a div was employed, which contained two separate divs for the QR image and text components. Flexbox was utilized to ensure proper alignment of these elements in accordance with the specified requirements. )
+  - [Built with](#Html, Css)
+  - [What I learned](#How to use flexbox to create beautiful card layouts like this.)
 - [Author](#Kapil)
 
 ## Overview
 
 ### Screenshot
-
-![](https://user-images.githubusercontent.com/76560065/226164091-e673baac-4ba5-4a01-9f9a-507ecab7f7b8.pnghttps://user-images.githubusercontent.com/76560065/226164091-e673baac-4ba5-4a01-9f9a-507ecab7f7b8.png)
+[screenshot](https://user-images.githubusercontent.com/76560065/226164091-e673baac-4ba5-4a01-9f9a-507ecab7f7b8.pnghttps://user-images.githubusercontent.com/76560065/226164091-e673baac-4ba5-4a01-9f9a-507ecab7f7b8.png)
 
 ### Links
 
